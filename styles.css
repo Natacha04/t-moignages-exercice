@@ -1,0 +1,33 @@
+main {
+  display: grid;
+  margin: 2rem;
+}
+
+.icone1 {
+  grid-column: 1;
+  grid-row: 1;
+  margin-bottom: 1rem;
+}
+
+.icone2 {
+  grid-column: 1;
+  grid-row: 1;
+  align-self: center;
+}
+
+.par {
+  grid-column: 3;
+  grid-row: 1;
+  margin: 2rem;
+}
+
+.icone3 {
+  grid-column: 4;
+  grid-row: 1;
+  align-self: center;
+}
+
+.icone4 {
+  grid-column: 4;
+  grid-row: 2;
+}
